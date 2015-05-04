@@ -1,0 +1,14 @@
+{
+    "name": "ItTutorial/ctocamp",
+    "description": "xld-cto",
+    "require": {
+        "php": ">=5.4.0",
+        "ItTutorial/ctocamp": "*"
+    },
+    "config": {
+        "process-timeout": 1800
+    },
+    "autoload": {
+        "psr-4": {"ItTutorial\\ctocamp\\": "./"}
+    }
+}
